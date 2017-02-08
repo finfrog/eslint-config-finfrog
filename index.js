@@ -3,6 +3,10 @@ module.exports = {
         "arrow-spacing": "error",
         "block-scoped-var": "error",
         "block-spacing": "error",
+        "comma-dangle": [
+            "error",
+            "always-multiline"
+        ],
         "computed-property-spacing": [
             "error",
             "never"
