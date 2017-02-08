@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-finfrog",
+  "version": "1.0.0",
+  "description": "An Eslint plugin exposing our common ruleset",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finfrog/eslint-plugin-finfrog.git"
+  },
+  "author": "StyMaar",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/finfrog/eslint-plugin-finfrog/issues"
+  },
+  "homepage": "https://github.com/finfrog/eslint-plugin-finfrog"
+}
