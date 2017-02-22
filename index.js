@@ -56,6 +56,7 @@ module.exports = {
         "no-multi-str": "error",
         "no-param-reassign": "error",
         "no-proto": "error",
+        "no-redeclare": "error",
         "no-script-url": "error",
         "no-self-assign": "error",
         "no-sequences": "error",
