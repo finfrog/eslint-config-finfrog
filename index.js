@@ -23,7 +23,13 @@ module.exports = {
             "smart"
         ],
         "guard-for-in": "error",
-        "indent": ["error", "tab", {"SwitchCase": 1, "MemberExpression": 1}],
+        "indent": ["error", "tab", {
+          "SwitchCase": 1,
+          "MemberExpression": 1,
+          "FunctionDeclaration": {"parameters": 1},
+          "FunctionExpression": {"parameters": 1},
+          "CallExpression": {"arguments": 1}
+        }],
         "keyword-spacing": "error",
         "new-cap": "error",
         "new-parens": "error",
