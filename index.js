@@ -53,6 +53,7 @@ module.exports = {
         "no-irregular-whitespace": "error",
         "no-iterator": "error",
         "no-loop-func": "error",
+        "no-mixed-spaces-and-tabs": ["error", "smart-tabs"],
         "no-multi-str": "error",
         "no-param-reassign": "error",
         "no-proto": "error",
